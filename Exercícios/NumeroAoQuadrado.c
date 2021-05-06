@@ -1,6 +1,5 @@
-/*Maria Eduarda Leal Ferreira - PT3008614
-2) Escreva um programa que receba um número inteiro qualquer e escreva na tela o seu
-valor ao quadrado;*/
+//2) Escreva um programa que receba um número inteiro qualquer e escreva na tela o seu
+valor ao quadrado;
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

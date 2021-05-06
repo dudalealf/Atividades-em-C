@@ -1,6 +1,5 @@
-/*Maria Eduarda Leal Ferreira - PT3008614
-3) Faça um programa que calcule a área de um retângulo com dimensões x e y fornecidas
-pelo usuário; */
+//3) Faça um programa que calcule a área de um retângulo com dimensões x e y fornecidas
+pelo usuário; 
 #include <stdio.h>
 #include <stdlib.h>
 int main(int argc, char *argv[]) {

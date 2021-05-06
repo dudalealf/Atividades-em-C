@@ -1,5 +1,4 @@
-/*Maria Eduarda Leal Ferreira - PT3008614 
-4) Faça um programa que verifique se um número é par ou ímpar*/
+//4) Faça um programa que verifique se um número é par ou ímpar
 #include <stdio.h>
 #include <stdlib.h>
 

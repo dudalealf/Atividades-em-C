@@ -1,4 +1,4 @@
-//Maria Eduarda Leal Ferreira - PT3008614
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

@@ -1,6 +1,5 @@
-/*Maria Eduarda Leal Ferreira - PT3008614
-1) Escreva um programa em C para ler um valor qualquer do teclado e escrever na tela o
-seu antecessor e o seu sucessor;*/
+// Escreva um programa em C para ler um valor qualquer do teclado e escrever na tela o
+seu antecessor e o seu sucessor
 #include <stdio.h>
 #include <stdlib.h>
 
